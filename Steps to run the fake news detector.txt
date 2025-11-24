@@ -1,4 +1,6 @@
 Steps to run the fake news detector website:
-1.In backend code, set dataset paths to the dataset paths on your computer
-2.Run python "path of fake news detector backend file" on terminal
-3.run the HTML file afterward
+1.on CMD paste pip install numpy pandas matplotlib seaborn wordcloud scikit-learn flask flask-cors
+2.In backend code, set dataset paths to the dataset paths on your computer
+3.Run python "path of backend file" on terminal
+4.run the HTML file afterward
+5.press ctrl+C in cmd to end backend
